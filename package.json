@@ -1,0 +1,10 @@
+{
+  "name": "Voice iD",
+  "version": "0.0.1",
+  "description": "Foundation of the local voip network.",
+  "dependencies":{
+  	"express": "3.x.x",
+  	"socket.io": "*",
+  	"util": "*"
+  }
+}
